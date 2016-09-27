@@ -1,3 +1,4 @@
+package simulation;
 
 /**
  * Provide a counter for a participant in the simulation.

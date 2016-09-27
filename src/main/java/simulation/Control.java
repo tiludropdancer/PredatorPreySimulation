@@ -1,3 +1,4 @@
+package simulation;
 import java.awt.Container;
 import java.awt.GridLayout;
 import java.awt.Toolkit;

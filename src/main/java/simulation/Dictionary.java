@@ -1,3 +1,4 @@
+package simulation;
 
 public class Dictionary {
 	private int MAX_AGE;
